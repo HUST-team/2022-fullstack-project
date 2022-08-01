@@ -1,1 +1,1 @@
-//안녕하세용
+console.log('abcdefc');
